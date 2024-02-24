@@ -60,19 +60,19 @@ MODERNHOME은 조립식 가구를 조립하고 납품하는 가구판매업 MES 
 ![image](https://github.com/kimhyejin1030/ModernHome/assets/131628934/3d656140-77f7-4f24-ac98-aefe1b7fdaf3)
 
 ### 기능구현
-* 품질관리 - 수입 검사
+* <b>품질관리 - 수입 검사</b>
 ![image](https://github.com/kimhyejin1030/ModernHome/assets/131628934/6038523b-2879-43e3-908f-b5c598fb75bf)
 
 
-* 품질관리 - 공정 검사
+* <b>품질관리 - 공정 검사</b>
 ![image](https://github.com/kimhyejin1030/ModernHome/assets/131628934/e1f04b47-39e7-409f-9032-dd200398c80e)
 
 
-* 품질관리 - 출고 검사
+* <b>품질관리 - 출고 검사</b>
 ![image](https://github.com/kimhyejin1030/ModernHome/assets/131628934/81c32e6b-4a27-4747-a43d-535d36d9ea07)
 
 
-* 생란관리 - 생산 라인 관리
+* <b>생산관리 - 생산 라인 관리</b>
 ![image](https://github.com/kimhyejin1030/ModernHome/assets/131628934/2dac864d-1047-447f-8420-1d3803d40c2f)
 
 
